@@ -17,12 +17,13 @@
 
 | Hari   | Kegiatan                         | Output              | Waktu     |
 |--------|----------------------------------|---------------------|-----------|
-| Senin  | Mengolah data                    | Report Data         | 80 menit  |
-|        | Menyusun hasil riset            | Draft Hasil         | 40 menit  |
+| Senin  | Mengolah data                    | Report Data         | 40 menit  |
+|        | Menyusun hasil riset            | Draft Hasil         | 60 menit  |
 |        | Review                          | Catatan Review      | 20 menit  |
 |        | Revisi                          | Hasil Revisi        | 40 menit  |
 | Selasa | Membuat aset promosi                  | Desain promosi       | 40 menit  |
-|        | Rilis                           | Publikasi           | 20 menit  |
-|        | Promosi (post-publish)          | Konten Promosi      | 20 menit  |
 |        | riview aset promosi              | revisi              |20 menit |
 |        | revisi                           | hasil revisi        | 30 menit |
+|        | Rilis                           | Publikasi           | 20 menit  |
+|        | Promosi (post-publish)          | Konten Promosi      | 20 menit  |
+
