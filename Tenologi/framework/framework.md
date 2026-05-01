@@ -1,4 +1,4 @@
-## Minggu 1 – Persiapan & Riset
+## Minggu 1
 
 | Hari   | Kegiatan                          | Output                         | Waktu     |
 |--------|----------------------------------|--------------------------------|-----------|
@@ -10,7 +10,7 @@
 | Kamis  | Persiapan uji coba instalasi     | Report Persiapan (Dokumentasi) | 180 menit |
 | Jumat  | Promosi awal                     | Report Promosi                 | 30 menit  |
 
-## Minggu 2 – Testing Tahap 1
+## Minggu 2 
 
 | Hari   | Kegiatan                          | Output                         | Waktu     |
 |--------|----------------------------------|--------------------------------|-----------|
@@ -21,7 +21,7 @@
 | Kamis  | Evaluasi hasil uji coba          | Report Evaluasi                | 180 menit |
 | Jumat  | Perbaikan sistem                 | Report Perbaikan               | 180 menit |
 
-## Minggu 3 – Testing Tahap 2 & Penyusunan
+## Minggu 3 
 
 | Hari   | Kegiatan                          | Output                         | Waktu     |
 |--------|----------------------------------|--------------------------------|-----------|
@@ -33,7 +33,7 @@
 | Jumat  | Menulis dokumentasi              | Draft Dokumentasi              | 180 menit |
 
 
-## Minggu 4 – Penulisan & Review Wiki
+## Minggu 4 
 
 | Hari   | Kegiatan                          | Output                         | Waktu     |
 |--------|----------------------------------|--------------------------------|-----------|
@@ -45,7 +45,7 @@
 |        | Finalisasi draft wiki            | Draft Final                    | 30 menit  |
 
 
-## Minggu 5 – Finalisasi & Publish
+## Minggu 5 
 
 | Hari   | Kegiatan                          | Output                         | Waktu     |
 |--------|----------------------------------|--------------------------------|-----------|
