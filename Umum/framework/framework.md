@@ -1,46 +1,26 @@
-## Minggu 1 Pengumpulan Data
+## Minggu 1 
 
 | Hari   | Kegiatan                     | Output              | Waktu     |
 |--------|------------------------------|---------------------|-----------|
 | Senin  | Menentukan topik             | Report Topik        | 80 menit  |
-|        | Mencari referensi            | Report Referensi    | 100 menit  |
-| Selasa | Mencari referensi            | Report Referensi    | 180 menit  |
-| Rabu   | Menentukan objek & subjek    | Objek & Subjek      | 120 menit |
-|        | Mengumpulkan data            | Report Data         | 60 menit  |
+|        | Menentukan objek & subjek    | Report Objek/Subjek | 80 menit  |
+| Selasa | Mengumpulkan data            | Report Data         | 180 menit |
+| Rabu   | Mengumpulkan data            | Report Data         | 180 menit |
 | Kamis  | Mengumpulkan data            | Report Data         | 180 menit |
-| Jumat  | Mengumpulkan data            | Report Data         | 160 menit |
-|        | Promosi awal   |  Promosi       | 30 menit  |
+| Jumat  | Mengumpulkan data            | Report Data         | 90 menit  |
+|        | Menyusun data mentah         | Draft Data          | 40 menit  |
+|        | Review data mentah           | Catatan Review      | 20 menit  |
+|        | Revisi data mentah           | Data Revisi         | 30 menit  |
 
 
-## Minggu 2 Pembahasan
+## Minggu 2 
 
-| Hari   | Kegiatan                          | Output                      | Waktu     |
-|--------|----------------------------------|-----------------------------|-----------|
-| Senin  | Mengumpulkan data                | Report Data                 | 80 menit  |
-|        | Melengkapi data                  | Data Lengkap                | 100 menit |
-| Selasa  | Menyusun data mentah             | Data Mentah Tersusun        | 180 menit  |
-| Rabu   |Mengolah data          | reort data  olahan       | 180 menit |
-| Kamis  |       Mengolah data        |                  | 180 menit |
-| Jumat  | Menulis hasil penelitian | report Hasil                | 180 menit  |
-
-## minggu ke 3
-| Hari   | Kegiatan                                | Output                 | Waktu     |
-|--------|------------------------------------------|------------------------|-----------|
-| Senin  | Menyelesaikan hasil penelitian          | Hasil Penelitian       | 120 menit |
-|        | Menulis pembahasan utama                | Report Pembahasan      | 60 menit  |
-| Selasa | Menulis pembahasan utama                | Report Pembahasan      | 180 menit |
-| Rabu   | Menulis pembahasan utama                | Report Pembahasan      | 60 menit  |
-|        | Finalisasi pembahasan                   | Report Final           | 120 menit |
-| Kamis  | Finalisasi pembahasan                   | Report Final           | 180 menit |
-| Jumat  | Menulis hasil riset                    | Report Hasil Riset     | 120 menit |
-|        | Penyempurnan hasil riset               | Report Final           | 60 menit  |
-
-
-## minggu ke 4
-| Hari   | Kegiatan                                | Output             | Waktu     |
-|--------|------------------------------------------|--------------------|-----------|
-| Senin  | Penyempurnan cek penulisan              | Report Final       | 120 menit |
-|        | Review                                 | revisi       | 60 menit  |
-| Selasa | Revisi                                 | Hasil Revisi       | 140 menit |
-|        | Rilis                                  | Upload             | 20 menit  |
-|        | Promosi artikel (post-publish)          | Konten Promosi     | 20 menit  |
+| Hari   | Kegiatan                         | Output              | Waktu     |
+|--------|----------------------------------|---------------------|-----------|
+| Senin  | Mengolah data                    | Report Data         | 80 menit  |
+|        | Menyusun hasil riset            | Draft Hasil         | 40 menit  |
+|        | Review                          | Catatan Review      | 20 menit  |
+|        | Revisi                          | Hasil Revisi        | 40 menit  |
+| Selasa | Membuat poster                  | Desain Poster       | 40 menit  |
+|        | Rilis                           | Publikasi           | 20 menit  |
+|        | Promosi (post-publish)          | Konten Promosi      | 20 menit  |
