@@ -26,4 +26,7 @@
 |        | revisi                          | hasil revisi        | 10 menit |
 |        | Rilis                           | Publikasi           | 5 menit  |
 |        | Promosi (post-publish)          | Konten Promosi      | 5 menit  |
+|        | monitoring dan evaluasi| report monitoring   | 2 minggu |
+
+
 
