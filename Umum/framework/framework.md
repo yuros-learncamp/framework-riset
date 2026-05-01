@@ -7,10 +7,10 @@
 | Selasa | Mengumpulkan data            | Report Data         | 180 menit |
 | Rabu   | Mengumpulkan data            | Report Data         | 180 menit |
 | Kamis  | Mengumpulkan data            | Report Data         | 180 menit |
-| Jumat  | Mengumpulkan data            | Report Data         | 90 menit  |
+| Jumat  | Mengumpulkan data            | Report Data         | 100 menit  |
 |        | Menyusun data mentah         | Draft Data          | 40 menit  |
 |        | Review data mentah           | Catatan Review      | 20 menit  |
-|        | Revisi data mentah           | Data Revisi         | 30 menit  |
+|        | Revisi data mentah           | Data Revisi         | 20 menit  |
 
 
 ## Minggu 2 
@@ -21,6 +21,8 @@
 |        | Menyusun hasil riset            | Draft Hasil         | 40 menit  |
 |        | Review                          | Catatan Review      | 20 menit  |
 |        | Revisi                          | Hasil Revisi        | 40 menit  |
-| Selasa | Membuat poster                  | Desain Poster       | 40 menit  |
+| Selasa | Membuat aset promosi                  | Desain promosi       | 40 menit  |
 |        | Rilis                           | Publikasi           | 20 menit  |
 |        | Promosi (post-publish)          | Konten Promosi      | 20 menit  |
+|        | riview aset promosi              | revisi              |20 menit |
+|        | revisi                           | hasil revisi        | 30 menit |
