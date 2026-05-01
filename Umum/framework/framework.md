@@ -15,15 +15,15 @@
 
 ## Minggu 2 
 
-| Hari   | Kegiatan                         | Output              | Waktu     |
-|--------|----------------------------------|---------------------|-----------|
-| Senin  | Mengolah data                    | Report Data         | 40 menit  |
+| Hari   | Kegiatan                         | Output              | Waktu    |
+|--------|---------------------------------|---------------------|-----------|
+| Senin  | Mengolah data                   | Report Data         | 40 menit  |
 |        | Menyusun hasil riset            | Draft Hasil         | 60 menit  |
 |        | Review                          | Catatan Review      | 20 menit  |
 |        | Revisi                          | Hasil Revisi        | 40 menit  |
-| Selasa | Membuat aset promosi                  | Desain promosi       | 40 menit  |
-|        | riview aset promosi              | revisi              |20 menit |
-|        | revisi                           | hasil revisi        | 30 menit |
-|        | Rilis                           | Publikasi           | 20 menit  |
-|        | Promosi (post-publish)          | Konten Promosi      | 20 menit  |
+| Selasa | Membuat aset promosi            | Desain promosi       | 40 menit |
+|        | review aset promosi             | revisi              |15 menit  |
+|        | revisi                          | hasil revisi        | 10 menit |
+|        | Rilis                           | Publikasi           | 5 menit  |
+|        | Promosi (post-publish)          | Konten Promosi      | 5 menit  |
 
