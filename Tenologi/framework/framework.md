@@ -33,9 +33,14 @@
 | Senin  | Dokumentasi akhir                | Report Data         | 40 menit |
 |        | Review hasil                     | Revisi              |
 |        | Revisi                           | report hasil        |
+| Selasa | menyusun wiki                    | Report wiki           | 80 menit |
+|        | riview                           | revisi               | 20 menit|
+|        | revisi                           | hasil revisi         | 40 menit |
+| Rabu   | Menyusun hasil riset             | Draft Hasil         | 80 menit |
+|        | review                           |  revisi             | 20 menit  | 
+|        | revisi                           | hasil revisi        | 40 menit  |
+| Kamis  | membuat aset promosi   | Report promosi  | 60 menit |
+|        | review | revisi | 20 menit |
+|        | revisi | hasil reisi | 30 menit |
 
-| Selasa |                   | Revisi              | 180 menit |
-| Rabu   | Menyusun hasil uji coba          | Draft Hasil         | 180 menit |
-| Kamis  | Mengolah data hasil uji coba     | Report Data Olahan  | 180 menit |
-| Jumat  | Dokumentasi akhir hasil uji coba | Dokumentasi Final   | 180 menit |
 
