@@ -24,3 +24,6 @@
 3. **Merumuskan Model Intervensi Literasi Sebagai Terapi Kognitif Mandiri**  
    Menghasilkan rekomendasi dan strategi berbasis bukti (*evidence-based*) mengenai kebiasaan membaca fiksi sebagai media retraining fokus untuk melatih regulasi diri (*self-regulation*) di era *hyper-stimulation* digital.
 
+
+
+
