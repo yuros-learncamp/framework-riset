@@ -1,8 +1,8 @@
 
 # Topik Minggu 1
 
-## Topik
-### Pemanfaatan Limbah Organik/Plastik Menjadi Material Berkelanjutan (Eco-Friendly Material
+### Topik
+## Pemanfaatan Limbah Organik/Plastik Menjadi Material Berkelanjutan (Eco-Friendly Material
 - Fokus: Pengolahan limbah sekitar untuk menciptakan produk alternatif yang bernilai ekonomi tinggi.
 #### 📌 Identifikasi Masalah Utama
 
@@ -26,7 +26,7 @@
 3. **Menentukan Nilai Ekonomis dan Potensi Komersialisasi Produk**  
    Mengukur nilai tambah ekonomi yang dihasilkan dari pengolahan limbah serta merumuskan strategi penerimaan pasar untuk mengatasi kendala persepsi konsumen terhadap material ramah lingkungan.
 
-### Pengaruh FOMO (Fear of Missing Out) terhadap Pola Konsumsi dan Gaya Hidup Generasi Muda
+## Pengaruh FOMO (Fear of Missing Out) terhadap Pola Konsumsi dan Gaya Hidup Generasi Muda
 - Fokus: Hubungan antara paparan tren media sosial dengan tingkat kecemasan serta pengeluaran finansial.
 #### 📌 Identifikasi Masalah Utama
 
@@ -51,7 +51,7 @@
    Memberikan rekomendasi akademis mengenai mekanisme kontrol diri (*self-regulation*) serta peningkatan literasi finansial untuk meminimalisasi dampak negatif ketergantungan media sosial terhadap stabilitas ekonomi generasi muda.
   
 
-### Analisis Tren Perubahan Curah Hujan (Perubahan Iklim) di Bogor dalam 20–30 Tahun Terakhir
+## Analisis Tren Perubahan Curah Hujan (Perubahan Iklim) di Bogor dalam 20–30 Tahun Terakhir
 - Fokus: Mengolah data spasial/cuaca untuk melihat apakah pola fenomena hujan orografis di Bogor bergeser akibat climate change dan pemanasan global.
 #### 📌 Identifikasi Masalah Utama
 
@@ -75,7 +75,7 @@
 3. **Memisahkan Pengaruh Perubahan Iklim Global dan Mikroklimat Perkotaan**  
    Menganalisis kontribusi relatif antara fenomena perubahan iklim makro (*global warming*) dan dampak alih fungsi lahan (*urban heat island*) terhadap modifikasi karakteristik curah hujan lokal.
 
-### Pengaruh Iklim Mikro dan Histori Akulturasi Etnis Terhadap Karakteristik Fisik Masyarakat Kota Bogor
+## Pengaruh Iklim Mikro dan Histori Akulturasi Etnis Terhadap Karakteristik Fisik Masyarakat Kota Bogor
 
   - Fokus Bahasan:
 
@@ -105,7 +105,7 @@
 3. **Memetakan Kontribusi Relatif Antara Faktor Lingkungan dan Warisan Genetik**  
    Mengidentifikasi proporsi pengaruh antara adaptasi fenotipik akibat paparan iklim mikro Bogor dengan determinan genetika historis dalam membentuk karakteristik fisik khas masyarakat setempat.
 
-### Pengaruh Kebiasaan Silent Reading Fiksi Terhadap Tingkat Fokus dan Attention Span Remaja di Tengah Paparan Short-Form Content (TikTok/Reels)
+## Pengaruh Kebiasaan Silent Reading Fiksi Terhadap Tingkat Fokus dan Attention Span Remaja di Tengah Paparan Short-Form Content (TikTok/Reels)
 
   - Fokus: Menguji apakah aktivitas membaca novel senyap secara konsisten bisa memulihkan kemampuan daya tangkap dan konsentrasi mendalam (deep focus) remaja yang terbiasa dengan konten serba cepat.
 
@@ -132,7 +132,7 @@
    Menghasilkan rekomendasi dan strategi berbasis bukti (*evidence-based*) mengenai kebiasaan membaca fiksi sebagai media retraining fokus untuk melatih regulasi diri (*self-regulation*) di era *hyper-stimulation* digital.
 
 
-## kekurangan dan kelebihan
+### kekurangan dan kelebihan
  
  ### Pemanfaatan Limbah Organik/Plastik Menjadi Material Berkelanjutan (Eco-Friendly Material
  
