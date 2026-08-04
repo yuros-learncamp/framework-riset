@@ -2,9 +2,9 @@
 # Topik Minggu 1
 
 ## Topik
-#### Pemanfaatan Limbah Organik/Plastik Menjadi Material Berkelanjutan (Eco-Friendly Material
+### Pemanfaatan Limbah Organik/Plastik Menjadi Material Berkelanjutan (Eco-Friendly Material
 - Fokus: Pengolahan limbah sekitar untuk menciptakan produk alternatif yang bernilai ekonomi tinggi.
-### 📌 Identifikasi Masalah Utama
+#### 📌 Identifikasi Masalah Utama
 
 1. **Tantangan Formulasi dan Standarisasi Kualitas Material**  
    Pengolahan limbah organik/plastik menjadi material baru membutuhkan presisi tinggi agar daya tahan dan kualitas fisiknya mampu menandingi bahan konvensional, mengingat sifat limbah yang sangat bervariasi dan mudah mengalami degradasi fungsi.
@@ -15,9 +15,9 @@
 3. **Hambatan Penerimaan Pasar dan Nilai Ekonomis**  
    Produk berbahan dasar limbah masih dihadapkan pada persepsi konsumen terkait ketahanan material yang diragukan, sehingga memerlukan penetapan harga dan komersialisasi yang matang agar memiliki daya saing nyata di pasar.
 
-#### Pengaruh FOMO (Fear of Missing Out) terhadap Pola Konsumsi dan Gaya Hidup Generasi Muda
+### Pengaruh FOMO (Fear of Missing Out) terhadap Pola Konsumsi dan Gaya Hidup Generasi Muda
 - Fokus: Hubungan antara paparan tren media sosial dengan tingkat kecemasan serta pengeluaran finansial.
-### 📌 Identifikasi Masalah Utama
+#### 📌 Identifikasi Masalah Utama
 
 1. **Akselerasi Tekanan Psikologis dan Kecemasan Sosial**  
    Paparan konstan terhadap tren media sosial secara masif memicu fenomena *Fear of Missing Out* (FOMO), yang bermanifestasi dalam bentuk kecemasan sosial serta dorongan kompulsif untuk mempertahankan validasi dan status diri di tengah kelompok sebaya.
@@ -29,9 +29,9 @@
    Mekanisme media sosial yang dirancang untuk terus mempromosikan gaya hidup konsumtif memperlemah kontrol diri (*self-regulation*), sehingga menyulitkan generasi muda dalam memisahkan antara kebutuhan riil dengan keinginan berorientasi estetika digital.
   
 
-#### Analisis Tren Perubahan Curah Hujan (Perubahan Iklim) di Bogor dalam 20–30 Tahun Terakhir
+### Analisis Tren Perubahan Curah Hujan (Perubahan Iklim) di Bogor dalam 20–30 Tahun Terakhir
 - Fokus: Mengolah data spasial/cuaca untuk melihat apakah pola fenomena hujan orografis di Bogor bergeser akibat climate change dan pemanasan global.
-### 📌 Identifikasi Masalah Utama
+#### 📌 Identifikasi Masalah Utama
 
 1. **Pergeseran Karakteristik Hujan Orografis Lokal**  
    Dinamika pemanasan global berpotensi mengubah pola intensitas, frekuensi, dan durasi hujan orografis khas Bogor, sehingga memicu ketidakpastian siklus hidrologi lokal yang selama ini menjadi penanda wilayah tersebut.
@@ -42,7 +42,7 @@
 3. **Kompleksitas Distorsi Data Akibat Fenomena Urbanisasi**  
    Perubahan pola curah hujan tidak hanya dipengaruhi oleh iklim global, tetapi juga terdistorsi oleh mikroklimat lokal akibat alih fungsi lahan masif (*urban heat island*), sehingga memisahkan pengaruh murni perubahan iklim global membutuhkan ketelitian analisis yang tinggi.
 
-#### Pengaruh Iklim Mikro dan Histori Akulturasi Etnis Terhadap Karakteristik Fisik Masyarakat Kota Bogor
+### Pengaruh Iklim Mikro dan Histori Akulturasi Etnis Terhadap Karakteristik Fisik Masyarakat Kota Bogor
 
   - Fokus Bahasan:
 
@@ -50,7 +50,7 @@
 
 * Sisi Demografi: Secara historis, Bogor (Buitenzorg) adalah pusat pemerintahan kolonial dan jalur perdagangan strategis Sunda. Terjadi gene flow atau pembauran genetik yang kaya (Sunda, Arab, Tionghoa, Eropa) sejak ratusan tahun lalu yang menghasilkan variasi visual/fisik yang khas.
 
-### 📌 Identifikasi Masalah Utama
+#### 📌 Identifikasi Masalah Utama
 
 1. **Kompleksitas Interaksi Antara Adaptasi Fenotipik dan Asal-Usul Genotipik**  
    Pengaruh kondisi lingkungan lokal (kelembapan tinggi dan intensitas radiasi UV yang rendah) serta pembauran genetik (*gene flow*) bersejarah menciptakan variasi karakteristik fisik yang sangat unik, sehingga memisahkan porsi pengaruh murni antara fenomena adaptasi iklim mikro dan warisan genetis menjadi tantangan analisis tersendiri.
@@ -61,11 +61,11 @@
 3. **Tingginya Dinamika Migrasi Modern yang Mengaburkan Jejak Akulturasi Historis**  
    Masifnya arus mobilitas dan heterogenitas penduduk Kota Bogor di era modern menyulitkan isolasi variabel histori pembauran genetik era Buitenzorg, sehingga penelusuran dampak kebudayaan dan genetika masa lalu terhadap karakteristik fisik masyarakat saat ini membutuhkan kecermatan tinggi.
 
-#### Pengaruh Kebiasaan Silent Reading Fiksi Terhadap Tingkat Fokus dan Attention Span Remaja di Tengah Paparan Short-Form Content (TikTok/Reels)
+### Pengaruh Kebiasaan Silent Reading Fiksi Terhadap Tingkat Fokus dan Attention Span Remaja di Tengah Paparan Short-Form Content (TikTok/Reels)
 
   - Fokus: Menguji apakah aktivitas membaca novel senyap secara konsisten bisa memulihkan kemampuan daya tangkap dan konsentrasi mendalam (deep focus) remaja yang terbiasa dengan konten serba cepat.
 
-### 📌 Identifikasi Masalah Utama
+#### 📌 Identifikasi Masalah Utama
 
 1. **Erosi Daya Konsentrasi Mendalam (*Deep Focus*) Akibat *Micro-Content***  
    Konsumsi masif konten berdurasi pendek (*short-form content*) yang serba cepat memicu stimulasi dopaminerik instan, sehingga mengikis ketahanan pemrosesan informasi mendalam (*deep processing*) dan memperpendek rentang perhatian (*attention span*) remaja secara drastis.
