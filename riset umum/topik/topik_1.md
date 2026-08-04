@@ -15,6 +15,17 @@
 3. **Hambatan Penerimaan Pasar dan Nilai Ekonomis**  
    Produk berbahan dasar limbah masih dihadapkan pada persepsi konsumen terkait ketahanan material yang diragukan, sehingga memerlukan penetapan harga dan komersialisasi yang matang agar memiliki daya saing nyata di pasar.
 
+#### 📌 Tujuan Penelitian
+
+1. **Menganalisis Formulasi dan Ketahanan Fisik Material Berkelanjutan**  
+   Mengevaluasi komposisi serta teknik pengolahan limbah organik dan plastik yang optimal guna menghasilkan material alternatif dengan daya tahan, fleksibilitas, dan standar kualitas yang kompetitif.
+
+2. **Mengkaji Efisiensi dan Skalabilitas Proses Pengolahan**  
+   Menilai kelayakan proses konversi limbah dari sudut pandang efisiensi biaya, keterjangkauan teknologi pengolahan lokal, serta potensi penerapannya pada skala industri maupun UMKM.
+
+3. **Menentukan Nilai Ekonomis dan Potensi Komersialisasi Produk**  
+   Mengukur nilai tambah ekonomi yang dihasilkan dari pengolahan limbah serta merumuskan strategi penerimaan pasar untuk mengatasi kendala persepsi konsumen terhadap material ramah lingkungan.
+
 ### Pengaruh FOMO (Fear of Missing Out) terhadap Pola Konsumsi dan Gaya Hidup Generasi Muda
 - Fokus: Hubungan antara paparan tren media sosial dengan tingkat kecemasan serta pengeluaran finansial.
 #### 📌 Identifikasi Masalah Utama
@@ -27,6 +38,17 @@
 
 3. **Kerentanan Regulasi Diri di Tengah Algoritma Komersial**  
    Mekanisme media sosial yang dirancang untuk terus mempromosikan gaya hidup konsumtif memperlemah kontrol diri (*self-regulation*), sehingga menyulitkan generasi muda dalam memisahkan antara kebutuhan riil dengan keinginan berorientasi estetika digital.
+
+#### 📌 Tujuan Penelitian
+
+1. **Menganalisis Hubungan Paparan Tren Digital dengan Kecemasan Sosial**  
+   Mengidentifikasi sejauh mana intensitas paparan tren di media sosial memicu fenomena *Fear of Missing Out* (FOMO) dan kontribusinya terhadap peningkatan tingkat kecemasan psikologis pada generasi muda.
+
+2. **Mengevaluasi Dampak Fenomena FOMO terhadap Pola Konsumsi Finansial**  
+   Mengkaji pengaruh kecemasan akibat FOMO terhadap pergeseran perilaku belanja, khususnya dalam memicu pengeluaran impulsif demi mempertahankan gaya hidup dan status sosial.
+
+3. **Merumuskan Strategi Regulasi Diri dan Literasi Keuangan**  
+   Memberikan rekomendasi akademis mengenai mekanisme kontrol diri (*self-regulation*) serta peningkatan literasi finansial untuk meminimalisasi dampak negatif ketergantungan media sosial terhadap stabilitas ekonomi generasi muda.
   
 
 ### Analisis Tren Perubahan Curah Hujan (Perubahan Iklim) di Bogor dalam 20–30 Tahun Terakhir
@@ -41,6 +63,17 @@
 
 3. **Kompleksitas Distorsi Data Akibat Fenomena Urbanisasi**  
    Perubahan pola curah hujan tidak hanya dipengaruhi oleh iklim global, tetapi juga terdistorsi oleh mikroklimat lokal akibat alih fungsi lahan masif (*urban heat island*), sehingga memisahkan pengaruh murni perubahan iklim global membutuhkan ketelitian analisis yang tinggi.
+
+#### 📌 Tujuan Penelitian
+
+1. **Menganalisis Pergeseran Tren dan Pola Hujan Orografis**  
+   Mengevaluasi dinamika data spasial dan meteorologi selama 20–30 tahun terakhir untuk mengidentifikasi perubahan intensitas, frekuensi, serta variabilitas fenomena hujan orografis di wilayah Bogor.
+
+2. **Mengkaji Dampak Perubahan Iklim terhadap Siklus Hidrologi Lokal**  
+   Menilai sejauh mana tren pemanasan global berkontribusi secara signifikan terhadap anomali cuaca serta peningkatan potensi bencana hidrometeorologi seperti banjir dan tanah longsor di Bogor.
+
+3. **Memisahkan Pengaruh Perubahan Iklim Global dan Mikroklimat Perkotaan**  
+   Menganalisis kontribusi relatif antara fenomena perubahan iklim makro (*global warming*) dan dampak alih fungsi lahan (*urban heat island*) terhadap modifikasi karakteristik curah hujan lokal.
 
 ### Pengaruh Iklim Mikro dan Histori Akulturasi Etnis Terhadap Karakteristik Fisik Masyarakat Kota Bogor
 
@@ -61,6 +94,17 @@
 3. **Tingginya Dinamika Migrasi Modern yang Mengaburkan Jejak Akulturasi Historis**  
    Masifnya arus mobilitas dan heterogenitas penduduk Kota Bogor di era modern menyulitkan isolasi variabel histori pembauran genetik era Buitenzorg, sehingga penelusuran dampak kebudayaan dan genetika masa lalu terhadap karakteristik fisik masyarakat saat ini membutuhkan kecermatan tinggi.
 
+### 📌 Tujuan Penelitian
+
+1. **Menganalisis Korelasi Iklim Mikro Lokal Terhadap Kondisi Biologis Kulit**  
+   Mengevaluasi sejauh mana paparan kelembapan udara tinggi dan intensitas radiasi UV yang relatif rendah berkontribusi terhadap pemeliharaan *skin barrier*, hidrasi alami, serta kondisi fisiologis kulit masyarakat Kota Bogor.
+
+2. **Mengkaji Jejak Histori Akulturasi Etnis Terhadap Variasi Fenotipik**  
+   Menelusuri kontribusi alir gen (*gene flow*) hasil pembauran etnis historis (Sunda, Arab, Tionghoa, dan Eropa) di kawasan Buitenzorg terhadap keanekaragaman karakteristik visual dan fisik populasi lokal.
+
+3. **Memetakan Kontribusi Relatif Antara Faktor Lingkungan dan Warisan Genetik**  
+   Mengidentifikasi proporsi pengaruh antara adaptasi fenotipik akibat paparan iklim mikro Bogor dengan determinan genetika historis dalam membentuk karakteristik fisik khas masyarakat setempat.
+
 ### Pengaruh Kebiasaan Silent Reading Fiksi Terhadap Tingkat Fokus dan Attention Span Remaja di Tengah Paparan Short-Form Content (TikTok/Reels)
 
   - Fokus: Menguji apakah aktivitas membaca novel senyap secara konsisten bisa memulihkan kemampuan daya tangkap dan konsentrasi mendalam (deep focus) remaja yang terbiasa dengan konten serba cepat.
@@ -75,6 +119,17 @@
 
 3. **Kerentanan Hambatan Regulasi Diri dan Dominasi Habitual Digital**  
    Proses pemulihan daya tangkap melalui membaca fiksi membutuhkan disiplin dan regulasi diri (*self-regulation*) yang tinggi, yang kerap kali kalah bersaing dengan impulsivitas serta ketergantungan remaja terhadap algoritma media sosial yang dirancang untuk mempertahankan keterikatan (*user engagement*).
+
+### 📌 Tujuan Penelitian
+
+1. **Menganalisis Dampak Paparan *Short-Form Content* Terhadap Kemampuan Konsentrasi Remaja**  
+   Mengukur sejauh mana kebiasaan mengonsumsi konten berdurasi pendek (TikTok/Reels) berkontribusi terhadap penurunan *attention span* dan ketahanan *deep focus* pada kelompok remaja.
+
+2. **Menguji Efektivitas *Silent Reading* Fiksi Dalam Pemulihan *Deep Focus***  
+   Mengevaluasi sejauh mana aktivitas membaca novel senyap yang dilakukan secara konsisten mampu merekonstruksi daya tangkap, kemampuan pemrosesan informasi mendalam, dan rentang perhatian remaja.
+
+3. **Merumuskan Model Intervensi Literasi Sebagai Terapi Kognitif Mandiri**  
+   Menghasilkan rekomendasi dan strategi berbasis bukti (*evidence-based*) mengenai kebiasaan membaca fiksi sebagai media retraining fokus untuk melatih regulasi diri (*self-regulation*) di era *hyper-stimulation* digital.
 
 
 ## kekurangan dan kelebihan
