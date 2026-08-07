@@ -3,7 +3,7 @@
 ## 1. Subjek Penelitian
 
 ### A. Penentuan Subjek
-* **Subjek Utama:** Remaja (rentang usia umum 12–21 tahun, atau kategori *Gen Z* akhir / *Gen Alpha* awal) yang aktif mengonsumsi *short-form content* (TikTok, Instagram Reels, YouTube Shorts).
+* **Subjek Utama:** Remaja indonesia (rentang usia umum 12–21 tahun, atau kategori *Gen Z* akhir / *Gen Alpha* awal) yang aktif mengonsumsi *short-form content* (TikTok, Instagram Reels, YouTube Shorts).
 * **Kriteria Subjek (Inklusi):**
   * Menggunakan platform media sosial berbasis konten durasi pendek dengan intensitas tinggi (misalnya $\ge 1-2$ jam/hari).
   * Melakukan atau sedang diintervensi dengan aktivitas *silent reading* (membaca fiksi/novel secara senyap) dalam kurun waktu tertentu.
