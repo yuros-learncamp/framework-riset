@@ -1,6 +1,5 @@
 
 # Laporan Sintesis Hasil Pengumpulan Data (Hari 1 - Hari 4)
-
 ---
 
 ## Hari 1: Pemetaan Kata Kunci & Identifikasi Database
