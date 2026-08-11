@@ -1,4 +1,3 @@
-# Kerangka Penelitian Kualitatif
 
 ## 1. Pendahuluan
 
