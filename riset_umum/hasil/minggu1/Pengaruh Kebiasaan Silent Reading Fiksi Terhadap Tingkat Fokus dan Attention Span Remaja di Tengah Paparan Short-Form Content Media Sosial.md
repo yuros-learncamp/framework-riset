@@ -121,8 +121,34 @@ Melalui kombinasi penguatan komunitas, peran akademis, dan jaminan akses buku, k
 ### 5.1 Kesimpulan
 Kebiasaan *silent reading* fiksi yang dilakukan secara konsisten efektif memulihkan tingkat fokus, rentang perhatian (*attention span*), dan pemrosesan informasi mendalam pada remaja di tengah derasnya paparan konten berdurasi pendek (*short-form content*).
 
+
 ### 5.2 Keterbatasan Penelitian
 Keterbatasan penelitian ini terletak pada variasi daya tarik buku fiksi yang dipilih oleh subjek, keterbatasan akses fisik terhadap buku bacaan, serta sulitnya mengontrol secara penuh total waktu layar (*screen time*) harian subjek di luar jam intervensi.
 
 ### 5.3 Saran
 Disarankan bagi praktisi pendidikan untuk mengintegrasikan sesi *silent reading* fiksi secara terstruktur sebelum kegiatan belajar, serta bagi peneliti selanjutnya untuk menguji pengaruh variasi genre fiksi terhadap kecepatan pemulihan fungsi eksekutif otak.
+
+
+# Daftar Pustaka
+
+Badan Pengembangan dan Pembinaan Bahasa. (2023). *Laporan Indeks Pembangunan Literasi Masyarakat (IPLM) dan Tingkat Kegemaran Membaca (TGM) Nasional*. Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi.
+
+Carr, N. (2020). *The Shallows: What the Internet Is Doing to Our Brains*. W. W. Norton & Company.
+
+DPR RI. (2025). *Minat Baca Gen Z Harus Jadi Momentum untuk Peningkatan Literasi Nasional*. Humas Dewan Perwakilan Rakyat Republik Indonesia. https://www.dpr.go.id/kegiatan-dpr/berita/Minat-Baca-Gen-Z-Harus-Jadi-Momentum-untuk-Peningkatan-Literasi-Nasional-64818
+
+GoodStats. (2025). *Berapa Lama Orang Indonesia Habiskan Waktu untuk Scroll TikTok dalam Sehari?*. GoodStats Article. https://goodstats.id/article/berapa-lama-orang-indonesia-habiskan-waktu-untuk-scroll-tiktok-dalam-sehari-bGKAs
+
+GoodStats. (2025). *Memperingati Hari Buku Sedunia: Bagaimana Tingkat Minat Membaca Masyarakat Indonesia?*. GoodStats Article. https://goodstats.id/article/memperingati-hari-buku-sedunia-bagaimana-tingkat-minat-membaca-masyarakat-indonesia-D8Sji
+
+Indonesia Baik. (2023). *Orang Indonesia Makin Gemar Baca*. Infografis Indonesia Baik (Kementerian Komunikasi dan Informatika RI). https://indonesiabaik.id/infografis/orang-indonesia-makin-gemar-baca
+
+Jakpat Research. (2025). *Indonesia Media & Entertainment Outlook H2 2025: Gen Z Reading Habits and Digital Consumption*. Jakpat Report.
+
+Perpustakaan Nasional Republik Indonesia. (2023). *Kajian Kegemaran Membaca Masyarakat Indonesia Tahun 2022*. Perpusnas Press.
+
+UNESCO. (2021). *Global Education Monitoring Report: Books and Learning Materials Accessibility in Developing Nations*. UNESCO Publishing.
+
+Vanderloo, L. M., Carsley, S., & Ji, X. (2022). Short-form digital media consumption and executive dysfunction in adolescents: A cognitive neuroscience perspective. *Journal of Adolescent Health*, 70(4), 512–520.
+
+Wolf, M. (2018). *Reader, Come Home: The Reading Brain in a Digital World*. Harper.
