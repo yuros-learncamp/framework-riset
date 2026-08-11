@@ -102,20 +102,29 @@ Hambatan terbesar yang dihadapi remaja dalam menjaga konsistensi *silent reading
 
 Hambatan regulasi diri (*self-regulation*) paling krusial muncul pada **10–15 menit pertama** aktivitas membaca. Pada rentang waktu inilah kontrol inhibisi (*inhibition control*) remaja paling rentan retak. Tanpa adanya strategi pengelolaan lingkungan (seperti mematikan notifikasi atau menjauhkan ponsel), dorongan impulsif sering kali memenangkan persaingan melawan niat membaca mendalam.
 
-## 4.3 Pembahasan Strategi Intervensi Literasi
+ ## 4.3 Pembahasan Strategi Intervensi Literasi
+
 
 Pembahasan temuan menegaskan bahwa tingginya minat baca Gen Z tidak serta-merta dapat meningkatkan literasi nasional maupun memulihkan *attention span* tanpa adanya penanganan strategis yang berkelanjutan. Untuk menjadikan kebiasaan *silent reading* fiksi sebagai media *retraining* fokus dan terapi kognitif mandiri di era *hyper-stimulation* digital, diperlukan tiga langkah strategis berbasis bukti (*evidence-based*):
 
+
 ### 4.3.1 Penguatan Komunitas Literasi Sebagai *Peer-Support*
+
 Memfasilitasi komunitas baca fisik dan digital di berbagai wilayah (terutama mengoptimalkan daerah dengan TGM tinggi seperti DIY [72,29], Jawa Tengah [70,96], dan Jawa Barat [70,10]) untuk memicu diskusi serta resensi buku fiksi secara organik. Komunitas ini berfungsi sebagai *peer-support* yang melatih regulasi diri (*self-regulation*) remaja dalam membatasi *screen time* harian dan membangun habituasi membaca yang konsisten.
 
+
 ### 4.3.2 Peran Akademis Terstruktur Untuk *Retraining* Kognitif
+
 Sekolah dan perguruan tinggi perlu merancang sesi *silent reading* fiksi yang terintegrasi, dilanjutkan dengan tugas yang melatih siswa mengkritisi, mengolah, dan menyajikan ulang informasi bacaan. Langkah ini terbukti efektif merekonstruksi *prefrontal cortex* untuk beralih dari pemrosesan cepat mikro-konten menuju pemrosesan informasi mendalam (*deep processing*) serta menguatkan kontrol inhibisi terhadap distraksi digital.
 
+
 ### 4.3.3 Aksesibilitas dan Keterjangkauan Buku Fisik
+
 Pemerintah dan pemangku kepentingan harus mengatasi kelangkaan fisik buku dengan menjamin ketersediaan buku fiksi berkualitas di perpustakaan sekolah/daerah, serta mendorong kebijakan harga buku yang terjangkau melalui insentif harga kertas dan pajak buku. Kemudahan akses fisik buku penting untuk mengatasi hambatan rendahnya penyelesaian buku (yang saat ini baru 2 buku per 3 bulan) agar rasio ketersediaan buku nasional mendekati standar UNESCO (3 buku per orang/tahun).
 
+
 Melalui kombinasi penguatan komunitas, peran akademis, dan jaminan akses buku, kebiasaan *silent reading* fiksi tidak hanya berfungsi sebagai aktivitas rekreasional, tetapi terbukti efektif sebagai instrumen latihan regulasi diri dan *retraining* fokus remaja dalam menghadapi gempuran stimulasi digital.
+
 ## 5. Kesimpulan dan Saran
 
 ### 5.1 Kesimpulan
