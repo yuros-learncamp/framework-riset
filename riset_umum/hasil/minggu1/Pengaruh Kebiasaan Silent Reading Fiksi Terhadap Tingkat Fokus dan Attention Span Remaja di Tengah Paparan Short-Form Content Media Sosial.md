@@ -18,7 +18,6 @@ Meskipun kebiasaan membaca novel secara senyap diyakini mampu melatih kembali ke
 ### 1.4 Manfaat Penelitian
 Penelitian ini diharapkan memberikan kontribusi akademis dalam bidang psikologi perkembangan dan literasi media mengenai dampak paparan media digital terhadap fungsi eksekutif remaja. Secara praktis, penelitian ini menjadi panduan bagi pendidik, orang tua, dan praktisi dalam menerapkan kebiasaan *silent reading* fiksi sebagai strategi *retraining* fokus serta pendorong regulasi diri remaja di era *hyper-stimulation* digital.
 
-
 ## 2. Kajian Teori
 
 ### 2.1 Landasan Teori
