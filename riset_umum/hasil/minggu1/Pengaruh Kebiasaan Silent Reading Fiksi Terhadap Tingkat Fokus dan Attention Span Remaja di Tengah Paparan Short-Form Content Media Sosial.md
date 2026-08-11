@@ -50,8 +50,6 @@ Teknik pengumpulan data mencakup observasi aktivitas membaca, pencatatan jurnal 
 ### 3.6 Teknik Analisis Data
 Teknik analisis data mengacu pada model analisis tematik kualitatif yang meliputi tiga tahapan utama: reduksi data, penyajian data, serta penarikan kesimpulan dan verifikasi.
 
-# 4. Hasil dan Pembahasan
-
 ## 4.1 Deskripsi Temuan Data
 
 ### 4.1.1 Profil Konsumsi Digital Remaja di Indonesia
