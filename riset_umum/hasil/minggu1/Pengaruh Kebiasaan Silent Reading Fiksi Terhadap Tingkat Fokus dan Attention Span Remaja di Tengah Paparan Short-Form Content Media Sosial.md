@@ -18,9 +18,11 @@ Meskipun kebiasaan membaca novel secara senyap diyakini mampu melatih kembali ke
 ### 1.4 Manfaat Penelitian
 Penelitian ini diharapkan memberikan kontribusi akademis dalam bidang psikologi perkembangan dan literasi media mengenai dampak paparan media digital terhadap fungsi eksekutif remaja. Secara praktis, penelitian ini menjadi panduan bagi pendidik, orang tua, dan praktisi dalam menerapkan kebiasaan *silent reading* fiksi sebagai strategi *retraining* fokus serta pendorong regulasi diri remaja di era *hyper-stimulation* digital.
 
-## 2. Kajian Teori
 
-### 2.1 Landasan Teori
+
+
+
+## 2.1 Landasan Teori
 Landasan teori berfokus pada Teori Fungsi Eksekutif dan Kontrol Inhibisi untuk menjelaskan bagaimana *prefrontal cortex* mengelola pemrosesan informasi dan menahan distraksi digital. Selain itu, *Narrative Transport Theory* digunakan untuk menguraikan mekanisme imersi mental saat membaca narasi fiksi yang membutuhkan konsentrasi tanpa putus (*uninterrupted focus*). Pembahasan juga melingkupi konsep *Dopaminergic Loop* untuk menjelaskan bagaimana paparan konten berdurasi pendek secara berulang memperlemah daya tahan perhatian remaja.
 
 ### 2.2 Penelitian Terdahulu
@@ -29,25 +31,27 @@ Sintesis studi-studi terdahulu menunjukkan bahwa durasi paparan media sosial ber
 ### 2.3 Kerangka Berpikir
 Alur penelitian dimulai dari identifikasi fenomena penurunan fokus akibat paparan *short-form content*, pelaksanaan intervensi melalui *silent reading* fiksi, pengumpulan data lapangan, analisis mendalam terhadap tingkat fokus dan regulasi diri, hingga penarikan kesimpulan dan perumusan model terapi kognitif.
 
+
+
 ## 3. Metodologi Penelitian
 
 ### 3.1 Pendekatan Penelitian
-Penelitian ini menggunakan pendekatan kualitatif deskriptif dengan studi fenomenologi untuk menggali pengalaman subjektif remaja dalam mengimbangi paparan media sosial berdurasi singkat dengan aktivitas membaca fiksi secara senyap.
+Penelitian ini menggunakan pendekatan kualitatif dengan desain **riset online murni (*full online desk research*)** yang sepenuhnya bersumber dari penelusuran literatur, dokumen digital, dan data arsip dari berbagai penelitian sebelumnya untuk menganalisis pengalaman serta pola perilaku remaja dalam mengimbangi paparan media sosial dengan *silent reading* fiksi.
 
 ### 3.2 Prosedur Penelitian
-Prosedur penelitian meliputi tahap persiapan instrumen dan penentuan kriteria subjek, tahap pelaksanaan intervensi *silent reading* fiksi yang diiringi pencatatan harian, tahap evaluasi perubahan fokus dan tingkat regulasi diri, serta tahap analisis data kualitatif.
+Prosedur penelitian meliputi tahap penelusuran pustaka dan dokumen daring terkait, tahap pengumpulan serta seleksi data sekunder dari jurnal dan riset terdahulu, tahap sintesis informasi, serta tahap penarikan kesimpulan. Seluruh rangkaian proses ini diselesaikan dalam durasi cepat **4 hingga 5 hari**.
 
 ### 3.3 Lokasi dan Waktu Penelitian
-Penelitian dilaksanakan di lingkungan sekolah menengah dan komunitas baca remaja yang relevan, dengan durasi pelaksanaan intervensi serta pengumpulan data berlangsung selama 4 hingga 8 minggu.
+Penelitian dilaksanakan secara **daring sepenuhnya (*online*)** melalui akses basis data jurnal ilmiah, repositori perpustakaan digital, serta sumber kepustakaan online lainnya, dengan rentang waktu pelaksanaan selama **4 hingga 5 hari**.
 
 ### 3.4 Subjek Penelitian
-Subjek penelitian adalah remaja berusia 12–21 tahun yang merupakan pengguna aktif aplikasi konten berdurasi pendek (TikTok/Reels) dan sedang atau telah menjalankan kebiasaan *silent reading* fiksi.
+Subjek penelitian merujuk pada subjek atau informan yang dikaji dan dilaporkan dalam **penelitian-penelitian sebelumnya** (literatur terdahulu) dengan fokus populasi remaja berusia 12â€“21 tahun yang aktif menggunakan media sosial dan melakukan *silent reading* fiksi.
 
 ### 3.5 Teknik Pengumpulan Data
-Teknik pengumpulan data mencakup observasi aktivitas membaca, pencatatan jurnal harian (*reading log*), serta dokumentasi hasil pengukuran indikator fokus dan regulasi diri.
+Teknik pengumpulan data dilakukan sepenuhnya melalui **studi pustaka daring (*online desk research* / *library research*)** tanpa melibatkan interaksi langsung atau penyebaran kuesioner kepada responden baru. Pengumpulan data mencakup penelusuran artikel jurnal, laporan riset terdahulu, esai, dan literatur digital relevan yang membahas topik terkait.
 
 ### 3.6 Teknik Analisis Data
-Teknik analisis data mengacu pada model analisis tematik kualitatif yang meliputi tiga tahapan utama: reduksi data, penyajian data, serta penarikan kesimpulan dan verifikasi.
+Teknik analisis data menggunakan **analisis konten kualitatif (*qualitative content analysis*)** terhadap literatur dan data dari penelitian-penelitian sebelumnya. Prosesnya meliputi pembacaan kritis, pengkodean temuan data sekunder, sintesis literatur, serta penarikan kesimpulan untuk menjawab rumusan masalah.
 
 ## 4.1 Deskripsi Temuan Data
 
